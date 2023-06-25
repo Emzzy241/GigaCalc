@@ -1,8 +1,8 @@
-# UNILORIN GPA 1.0.0
+# GigaCalc 1.0.0
 
 #### made by Mojiboye Emmanuel
 
-### For Computer Science Studens(100level)
+### A calculator that helps Unilorin Student calculate their CGPA
 
 ### Technologies Used
 * Git
@@ -12,7 +12,7 @@
 * Bootstrap
 
 # Description
-_A website where Students in Computer Science Unilorin 100level can calculte their GPA After the 1st Semester Exams_
+_A Calculator Students of the Federal University of Ilorin(Unilorin) can use in calculating their CGPA_
 
 ## Setup/Installation
 * _Clone or Download the Project_
@@ -25,7 +25,7 @@ _Note: the website is designed to run on a web browser just be sure you have one
 _As at the launching of this Project there are zero bugs in it. But if you do find a bug in it, be sure to notify me via my various social media handles below_
 
 ## WEBSITE LINK
-https://emzzy241.github.io/My-Csc-GPA/
+https://emzzy241.github.io/GigaCalc/
 
 ## License 
 Licensed under the GNU General Public License 
