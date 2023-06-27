@@ -2889,7 +2889,7 @@ $(document).ready(() => {
                                                             $(".myFinalResult").text("Your Total GPA for first semester is: " + myTotalGpaFirstSemester );
                                                         
                                                             // Thanking the user 
-                                                            $(".Thanks").text("Thank you very much for using this website. If you have any complaint; send a message to me via the number below");
+                                                            $(".Thanks").text("Thank you very much for using this calculator. If you have any complaint; send a message to me via the number below");
                                                             $(".stayTuned").text("Stay tuned for upcoming features like the CGPA that works for 1st and 2nd semester");
                                                         });
 
